@@ -1,2 +1,3 @@
 # PocketmineProBr
-Um dor para criar servidores em pocketmine e genesys constituida para hospedagens e privados
+A daga for pocket servers and genesys constituida para hospedages and private
+Detalhes
